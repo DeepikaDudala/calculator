@@ -12,7 +12,7 @@ Basic arithmetic operations: addition, subtraction, multiplication, and division
 Responsive design for optimal viewing on different screen sizes
 User-friendly interface
 ## Screenshot
-
+![Screenshot (22)](https://github.com/DeepikaDudala/calculator/assets/128839850/ee88bdf8-4181-489a-8005-7ede8f3086e5)
 
 ## Live Demo
 
@@ -47,4 +47,4 @@ For any questions or feedback, please contact [DeepikaDudala] at [deepika.dudala
 
 Version: 1.0.0
 Author: [Deepika Dudala]
-Date: 2023-12-27
+Date: 2023-7-21
