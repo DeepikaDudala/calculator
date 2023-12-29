@@ -35,10 +35,6 @@ The result will be displayed in the result field.
 
 Feel free to contribute to this project! Please refer to the contribution guidelines for more information.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or feedback, please contact [DeepikaDudala] at [deepika.dudala@sasi.ac.in].
@@ -46,5 +42,7 @@ For any questions or feedback, please contact [DeepikaDudala] at [deepika.dudala
 ## Additional Information
 
 Version: 1.0.0
+
 Author: [Deepika Dudala]
+
 Date: 2023-7-21
